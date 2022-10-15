@@ -51,7 +51,7 @@ allprojects {
  
  ```
  dependencies {
-	        implementation 'com.github.Thawtarlamin:HomeAds:Tag'
+	        implementation 'com.github.Thawtarlamin:HomeAds:1.0'
 	}
 ```
 ```
