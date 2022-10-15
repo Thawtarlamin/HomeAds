@@ -48,11 +48,18 @@ allprojects {
 	}
   
   ```
-  dependencies {
+ 
+ ```
+ dependencies {
 	        implementation 'com.github.Thawtarlamin:HomeAds:Tag'
 	}
-  ```
-
+```
+```
+id 'org.jetbrains.kotlin.android' version '1.6.10' apply false
 ```
 
 ```
+apply plugin: 'kotlin-parcelize'
+apply plugin: 'kotlin-android'
+```
+
